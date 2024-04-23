@@ -37,12 +37,6 @@ Clone the repository:
   git clone https://github.com/amanjot-git/real-estate-market-analysis.git
 ```
 
-
-Install the required packages:
-
-pip install -r requirements.txt
-
-
 ### Running the tests
 
 Explain how to run the automated tests for this system:
