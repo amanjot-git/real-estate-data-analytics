@@ -18,12 +18,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them:
 
-'  python >= 3.8
-pandas >= 1.2
-matplotlib >= 3.3
-seaborn >= 0.11
-scikit-learn >= 0.24
-  '
+```
+  python >= 3.8
+  pandas >= 1.2
+  matplotlib >= 3.3
+  seaborn >= 0.11
+  scikit-learn >= 0.24
+```
 
 
 ### Installing
@@ -32,7 +33,9 @@ A step-by-step series of examples that tell you how to get a development environ
 
 Clone the repository:
 
-git clone https://github.com/amanjot-git/real-estate-market-analysis.git
+```
+  git clone https://github.com/amanjot-git/real-estate-market-analysis.git
+```
 
 
 Install the required packages:
@@ -44,15 +47,17 @@ pip install -r requirements.txt
 
 Explain how to run the automated tests for this system:
 
-python -m unittest discover -s tests
-
+```
+  python -m unittest discover -s tests
+```
 
 ## Usage
 
 Describe how to use the repository for conducting the analysis or reproducing the results:
 
-python scripts/run_analysis.py
-
+```
+  python scripts/run_analysis.py
+```
 This script will process the data, perform analyses, and save output reports and figures in the respective directories.
 
 
