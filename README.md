@@ -18,11 +18,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them:
 
-python >= 3.8
+'python >= 3.8
 pandas >= 1.2
 matplotlib >= 3.3
 seaborn >= 0.11
 scikit-learn >= 0.24
+'
 
 
 ### Installing
