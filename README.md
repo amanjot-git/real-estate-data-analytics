@@ -8,8 +8,6 @@ This project focuses on analyzing real estate market data to uncover trends, pat
 
 - **data/**: Contains raw data files and processed datasets used in the analyses.
 - **notebooks/**: Jupyter notebooks containing all analyses, including data cleaning, exploration, visualization, and predictive modeling.
-- **scripts/**: Python scripts for data processing and modeling.
-- **reports/**: Generated analysis reports and visuals for stakeholders.
 - **README.md**: This file, providing an overview and instructions on how to navigate the project.
 
 ## Getting Started
