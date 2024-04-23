@@ -6,7 +6,7 @@ This project focuses on analyzing real estate market data to uncover trends, pat
 
 ## Project Structure
 
-- **data/**: Contains raw data files and processed datasets used in the analyses.
+- **data/**: Contains raw data files and processed (datasets)[https://github.com/Ashleshk/Data-Science-Zillow-Real-Estate-Market-Analysis/blob/main/Data/main_df.csv] used in the analyses.
 - **notebooks/**: Jupyter notebooks containing all analyses, including data cleaning, exploration, visualization, and predictive modeling.
 - **README.md**: This file, providing an overview and instructions on how to navigate the project.
 
