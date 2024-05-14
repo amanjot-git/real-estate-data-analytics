@@ -4,12 +4,6 @@
 
 This project focuses on analyzing real estate market data to uncover trends, patterns, and insights that can aid stakeholders like investors, developers, and marketers in making data-driven decisions. The analysis includes market segmentation by property type and location, predictive modeling for property prices, and the identification of investment opportunities and risks.
 
-## Project Structure
-
-- **data/**: Contains raw data files and processed [datasets](https://github.com/Ashleshk/Data-Science-Zillow-Real-Estate-Market-Analysis/blob/main/Data/main_df.csv) used in the analyses.
-- **notebooks/**: Jupyter notebooks containing all analyses, including data cleaning, exploration, visualization, and predictive modeling.
-- **README.md**: This file, providing an overview and instructions on how to navigate the project.
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
