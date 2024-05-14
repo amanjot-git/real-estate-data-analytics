@@ -4,10 +4,6 @@
 
 This project focuses on analyzing real estate market data to uncover trends, patterns, and insights that can aid stakeholders like investors, developers, and marketers in making data-driven decisions. The analysis includes market segmentation by property type and location, predictive modeling for property prices, and the identification of investment opportunities and risks.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 
 What things you need to install the software and how to install them:
@@ -19,35 +15,6 @@ What things you need to install the software and how to install them:
   seaborn >= 0.11
   scikit-learn >= 0.24
 ```
-
-
-### Installing
-
-A step-by-step series of examples that tell you how to get a development environment running:
-
-Clone the repository:
-
-```
-  git clone https://github.com/amanjot-git/real-estate-market-analysis.git
-```
-
-### Running the tests
-
-Explain how to run the automated tests for this system:
-
-```
-  python -m unittest discover -s tests
-```
-
-## Usage
-
-Describe how to use the repository for conducting the analysis or reproducing the results:
-
-```
-  python scripts/run_analysis.py
-```
-This script will process the data, perform analyses, and save output reports and figures in the respective directories.
-
 
 ## License
 
